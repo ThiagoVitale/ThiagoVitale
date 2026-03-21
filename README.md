@@ -4,7 +4,7 @@
 
 - 🔭 Toy laburando en **proyectos personales, desarrollo web y lo que venga**
 
-- 🌱 Toy aprendiendo **Python y C++**
+- 🌱 Toy actualmente aprendiendo **C++ y TypeScript con React**
 
 - ![image](https://github.com/ThiagoVitale/ThiagoVitale/assets/161503406/d0c576b7-abbb-4a84-b49c-f8f28943b373)
 
