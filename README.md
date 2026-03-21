@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagovitale&label=Profile%20views&color=0e75b6&style=flat" alt="thiagovitale" /> </p>
 
-- 🔭 Toy laburando en **proyectos personales y lo que venga**
+- 🔭 Toy laburando en **proyectos personales, desarrollo web y lo que venga**
 
 - 🌱 Toy aprendiendo **Python y C++**
 
