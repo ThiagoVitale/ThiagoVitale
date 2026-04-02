@@ -1,4 +1,3 @@
-<h1 align="center">Thiago</h1>
 
 ---
 
@@ -14,7 +13,3 @@
 > Problems still arise, we have our reason  
 
 ---
-
-<p align="center">
-  <i>Back off.</i>
-</p>
