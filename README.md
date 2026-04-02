@@ -1,9 +1,5 @@
 <h1 align="center">Thiago</h1>
 
-<p align="center">
-  <i>"Lack of communication..."</i>
-</p>
-
 ---
 
 > Too many problems, the world can't solve  
