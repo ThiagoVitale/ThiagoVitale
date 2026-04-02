@@ -1,5 +1,6 @@
+<img align="right" height="220" src="https://wallpaperaccess.com/full/5234681.jpg"/>
 
----
+### NNFJ
 
 > Too many problems, the world can't solve  
 > Too many people, no-one wants to be involved  
@@ -13,3 +14,7 @@
 > Problems still arise, we have our reason  
 
 ---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThiagoVitale/ThiagoVitale/output/snake.svg" alt="Snake animation" />
