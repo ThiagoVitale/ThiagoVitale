@@ -1,6 +1,10 @@
-<img align="right" height="230" src="https://wallpaperaccess.com/full/5234681.jpg"/>
+<div align="center">
+  <img src="https://wallpaperaccess.com/full/5234681.jpg" width="100%"/>
+</div>
 
-### NNFJ
+---
+
+<div align="center">
 
 > Too many problems, the world can't solve  
 > Too many people, no-one wants to be involved  
@@ -13,6 +17,6 @@
 > Questions askin' why, we have our reason  
 > Problems still arise, we have our reason  
 
----
+</div>
 
-<br clear="both">
+---
