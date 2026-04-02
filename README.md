@@ -1,4 +1,4 @@
-<img align="right" height="220" src="https://wallpaperaccess.com/full/5234681.jpg"/>
+<img align="right" height="230" src="https://wallpaperaccess.com/full/5234681.jpg"/>
 
 ### NNFJ
 
@@ -16,5 +16,3 @@
 ---
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThiagoVitale/ThiagoVitale/output/snake.svg" alt="Snake animation" />
